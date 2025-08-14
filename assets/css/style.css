@@ -1335,4 +1335,14 @@ textarea.input-field {
 
   .about-banner { max-width: 450px; }
 
+
+
+
+
+  :root {
+  --raw-seinna: hsl(301, 100%, 50%) !important;
+  --sizzling-sunrise: hsl(303, 100%, 85%) !important;
+  --scarlet: hsl(305, 65%, 53%) !important;
+}
+
 }
